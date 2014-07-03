@@ -1,0 +1,2 @@
+C:\Users\Technologist\Documents\GitHub\LabmdaPractice\LamdaPractice\bin\Debug\LamdaPractice.exe.config
+C:\Users\Technologist\Documents\GitHub\LabmdaPractice\LamdaPractice\obj\Debug\LamdaPractice.csprojResolveAssemblyReference.cache
